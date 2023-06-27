@@ -18,6 +18,7 @@ Providing actionable insights: Deriving actionable insights from the analysis re
 
 By addressing these challenges, we aim to contribute to the field of epidemiology and provide evidence-based recommendations to mitigate the public health threat posed by Ebola outbreaks.
 
+## Last Update 
 As of the last update Tuesday 27 June 2023 
 
 # Conclusion
